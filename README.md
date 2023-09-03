@@ -1,4 +1,7 @@
 # crawl_poetry
+
+kaggle link: https://www.kaggle.com/datasets/semaphore007/poets-and-poems-from-httpswwwpoetrystatecom
+
 First, I copied a portion of page_source from https://www.poetrystate.com/poetlist/ into a txt file which contains only poet links along with some unnecessary tags. 
 
 save_all_links.py : removes those tags and extracts poet links, it is saved in a txt(poets_links.txt) file. 
